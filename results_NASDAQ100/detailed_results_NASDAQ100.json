@@ -1,0 +1,107 @@
+{
+    "OLMAR": {
+        "total_return": 0.26784392500304,
+        "annualized_return": 0.09207187501531511,
+        "sharpe_ratio": 0.4205653582773934,
+        "max_drawdown": 0.48448914142279503,
+        "calmar_ratio": 0.19003908889460028
+    },
+    "PAMR": {
+        "total_return": -0.4701557937550872,
+        "annualized_return": -0.21000924562625,
+        "sharpe_ratio": -0.42833232655994397,
+        "max_drawdown": 0.5808335136884201,
+        "calmar_ratio": -0.3615653034423673
+    },
+    "CWMR_STD": {
+        "total_return": 0.3199554600418346,
+        "annualized_return": 0.10852029617755177,
+        "sharpe_ratio": 0.6223029820744254,
+        "max_drawdown": 0.14827371113942595,
+        "calmar_ratio": 0.7318916842615956
+    },
+    "CWMR_VAR": {
+        "total_return": 0.3265927373537896,
+        "annualized_return": 0.11058577034660644,
+        "sharpe_ratio": 0.6280799879680521,
+        "max_drawdown": 0.14860466956028504,
+        "calmar_ratio": 0.744160803787829
+    },
+    "ONS": {
+        "total_return": 0.3265927373537896,
+        "annualized_return": 0.11058577034660644,
+        "sharpe_ratio": 0.6280799879680521,
+        "max_drawdown": 0.14860466956028504,
+        "calmar_ratio": 0.744160803787829
+    },
+    "EG": {
+        "total_return": 0.3265441225328536,
+        "annualized_return": 0.11057066540848015,
+        "sharpe_ratio": 0.6282096718804725,
+        "max_drawdown": 0.1488628745493352,
+        "calmar_ratio": 0.7427685764044246
+    },
+    "UP": {
+        "total_return": 0.3267293135199758,
+        "annualized_return": 0.11062820357892278,
+        "sharpe_ratio": 0.6283779766790047,
+        "max_drawdown": 0.14873797683315984,
+        "calmar_ratio": 0.7437791338456553
+    },
+    "ANTICOR1": {
+        "total_return": 0.36467592190568165,
+        "annualized_return": 0.12231315124258701,
+        "sharpe_ratio": 0.5462029845451769,
+        "max_drawdown": 0.25636751011027126,
+        "calmar_ratio": 0.4771008275969779
+    },
+    "ANTICOR2": {
+        "total_return": 0.44505456376239616,
+        "annualized_return": 0.14640608614830852,
+        "sharpe_ratio": 0.6325143513467993,
+        "max_drawdown": 0.23003356463176225,
+        "calmar_ratio": 0.6364553206949403
+    },
+    "WMAMR": {
+        "total_return": -0.4273903872027204,
+        "annualized_return": -0.18692033140116637,
+        "sharpe_ratio": -0.27351187599947346,
+        "max_drawdown": 0.5690590975501721,
+        "calmar_ratio": -0.3284726177050288
+    },
+    "CRP": {
+        "total_return": 0.3265927373537896,
+        "annualized_return": 0.11058577034660644,
+        "sharpe_ratio": 0.6280799879680521,
+        "max_drawdown": 0.14860466956028504,
+        "calmar_ratio": 0.744160803787829
+    },
+    "M0": {
+        "total_return": 0.38308064402785735,
+        "annualized_return": 0.1279070215223217,
+        "sharpe_ratio": 0.6599971988104871,
+        "max_drawdown": 0.13574159046969775,
+        "calmar_ratio": 0.94228320944033
+    },
+    "BEST": {
+        "total_return": 0.3265927373537896,
+        "annualized_return": 0.11058577034660644,
+        "sharpe_ratio": 0.6280799879680521,
+        "max_drawdown": 0.14860466956028504,
+        "calmar_ratio": 0.744160803787829
+    },
+    "SP": {
+        "total_return": 0.32659273735378913,
+        "annualized_return": 0.11058577034660644,
+        "sharpe_ratio": 0.6280799879680518,
+        "max_drawdown": 0.1486046695602856,
+        "calmar_ratio": 0.7441608037878262
+    },
+    "MinVar": {
+        "total_return": 0.2819777204527065,
+        "annualized_return": 0.09657443164437951,
+        "sharpe_ratio": 0.6774976443642498,
+        "max_drawdown": 0.1290633006414196,
+        "calmar_ratio": 0.7482718260297334
+    }
+}
